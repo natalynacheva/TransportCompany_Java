@@ -1,0 +1,11 @@
+[
+Transport{transportId=8, startingDestination='blagoevgrad', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=150, price=12.0}, 
+Transport{transportId=3, startingDestination='burgas', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-03-01, goods=null, numOfPeople=150, price=10.0}, 
+Transport{transportId=5, startingDestination='ruse', endingDestination='pleven', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=43, price=20.0}, 
+Transport{transportId=6, startingDestination='shumen', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=33, price=13.0}, 
+Transport{transportId=10, startingDestination='Sofia', endingDestination='pernik', dateOfGoing=2022-01-01, dateOfArrival=2022-01-15, goods=null, numOfPeople=10, price=10.0}, 
+Transport{transportId=1, startingDestination='varna', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=15, price=17.0}, 
+Transport{transportId=2, startingDestination='varna', endingDestination='burgas', dateOfGoing=2022-01-01, dateOfArrival=2022-02-01, goods=null, numOfPeople=200, price=12.0}, 
+Transport{transportId=4, startingDestination='varna', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-04-01, goods=null, numOfPeople=99, price=11.0}, 
+Transport{transportId=7, startingDestination='varna', endingDestination='shumen', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=150, price=12.0}, 
+Transport{transportId=9, startingDestination='varna', endingDestination='Sofia', dateOfGoing=2022-01-01, dateOfArrival=2022-01-01, goods=null, numOfPeople=150, price=12.0}]
